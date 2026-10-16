@@ -30,6 +30,10 @@ Highlighted projects:
 
 A responsive pet-sitting website built with HTML, CSS, and vanilla JavaScript. The project replaced a planner-dependent customer workflow with live availability, guided date selection, and a privacy-conscious request process deployed on Cloudflare.
 
+### [Synology Incident Response Lab](https://github.com/brandondaugherty/synology-incident-response-lab)
+
+An evidence-based security investigation using real, sanitized homelab telemetry. The project covers Python log parsing, repeated SSH/DSM authentication activity, passive threat-intelligence enrichment, MITRE ATT&CK mapping, detection engineering, incident reporting, and a response runbook.
+
 ## Technical Focus
 
 **Systems and administration**
@@ -49,6 +53,7 @@ A responsive pet-sitting website built with HTML, CSS, and vanilla JavaScript. T
 - Phishing simulations and security-awareness training
 - Account access, least-privilege thinking, incident visibility, and root-cause analysis
 - Threshold-based monitoring, recovery notifications, and low-noise alerting
+- Log analysis, indicator enrichment, MITRE ATT&CK mapping, and incident-response documentation
 
 ## Certifications and Education
 
