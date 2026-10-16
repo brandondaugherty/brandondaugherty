@@ -26,6 +26,10 @@ Highlighted projects:
 - **[Sentinel Ops Bot](https://github.com/brandondaugherty/greedos-homelab/blob/main/projects/sentinel-ops-bot.md)** — stateful monitoring and alerting for system resources, network conditions, containers, services, and security findings
 - **[AMP Discord Bot](https://github.com/brandondaugherty/greedos-homelab/blob/main/projects/amp-discord-bot.md)** — role-restricted operational tooling for remote server administration and low-noise status notifications
 
+### [At Home with Kat — Client Website Case Study](https://github.com/brandondaugherty/at-home-with-kat-case-study)
+
+A responsive pet-sitting website built with HTML, CSS, and vanilla JavaScript. The project replaced a planner-dependent customer workflow with live availability, guided date selection, and a privacy-conscious request process deployed on Cloudflare.
+
 ## Technical Focus
 
 **Systems and administration**
